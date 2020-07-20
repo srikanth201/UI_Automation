@@ -1,5 +1,6 @@
 # UI_Automation
 Automated UI scenarios which was provided for test
+## Description
 •	Created a Maven Project
 •	Added Selenium, testing, Mavensurefireplugin, Jsoup, IO, Log4j and extentreports jar dependencies in POM.XML file 
 •	Created a data. Properties file to capture the which type of browser and URL and will drive that file using create an object for properties file and via loading
