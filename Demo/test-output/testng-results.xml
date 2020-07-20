@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-20T11:08:06 IST" name="Default suite" finished-at="2020-07-20T11:08:51 IST" duration-ms="44414">
+    <groups>
+    </groups>
+    <test started-at="2020-07-20T11:08:06 IST" name="Default test" finished-at="2020-07-20T11:08:51 IST" duration-ms="44414">
+      <class name="com.UIAutomation.Demo.MyStore_tests">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.UIAutomation.Demo.MyStore_tests@44c73c26]" started-at="2020-07-20T11:08:06 IST" name="openBrowser" finished-at="2020-07-20T11:08:19 IST" duration-ms="12605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="AddLessPriceItemToCart()[pri:1, instance:com.UIAutomation.Demo.MyStore_tests@44c73c26]" started-at="2020-07-20T11:08:19 IST" name="AddLessPriceItemToCart" finished-at="2020-07-20T11:08:34 IST" duration-ms="15288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddLessPriceItemToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.UIAutomation.Demo.MyStore_tests@44c73c26]" started-at="2020-07-20T11:08:34 IST" name="closeBrowser" finished-at="2020-07-20T11:08:35 IST" duration-ms="1142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.UIAutomation.Demo.MyStore_tests@44c73c26]" started-at="2020-07-20T11:08:35 IST" name="openBrowser" finished-at="2020-07-20T11:08:49 IST" duration-ms="14125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="ValidateDiscountEqualsToOriginal()[pri:2, instance:com.UIAutomation.Demo.MyStore_tests@44c73c26]" started-at="2020-07-20T11:08:49 IST" name="ValidateDiscountEqualsToOriginal" finished-at="2020-07-20T11:08:50 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDiscountEqualsToOriginal -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.UIAutomation.Demo.MyStore_tests@44c73c26]" started-at="2020-07-20T11:08:50 IST" name="closeBrowser" finished-at="2020-07-20T11:08:51 IST" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.UIAutomation.Demo.MyStore_tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
